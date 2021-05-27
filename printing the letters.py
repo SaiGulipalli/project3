@@ -19,12 +19,12 @@ def mostfrequent(word):
                 print(k, '=', v)
         dl.remove(max_)
 
-word = str(input('Please enter a string :'))
+word = str(input('Enter a string :'))
 mostfrequent(word)
 
 '''
 output
-Please enter a string :mississippi
+Enter a string :mississippi
 i = 4
 s = 4
 p = 2
